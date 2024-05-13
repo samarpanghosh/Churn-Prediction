@@ -21,7 +21,7 @@ Insights from EDA-
 
 Feature Engineering and Modelling
 1. Encoded Categorical Variables.
-2. Performed feature engineering. (Addition of features).
+2. Performed feature engineering.
 3. Train Test Split - Performed Oversampling to handle imbalance in the data.
 4. Modeling (Fitted logistic regression model and XGBoost)
 5. Performed Cross Validation to get the best value of the hyperparameters and thus create the optimal model.
